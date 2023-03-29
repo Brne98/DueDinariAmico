@@ -1,0 +1,289 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Api\\DueDinariAmico.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Api\\DueDinariAmico.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Api\\DueDinariAmico.Api.csproj",
+        "projectName": "DueDinariAmico.Api",
+        "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Api\\DueDinariAmico.Api.csproj",
+        "packagesPath": "C:\\Users\\Brne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj": {
+                "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj"
+              },
+              "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\DueDinariAmico.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\DueDinariAmico.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj",
+        "projectName": "DueDinariAmico.Application",
+        "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj",
+        "packagesPath": "C:\\Users\\Brne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj": {
+                "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.1, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[6.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj",
+        "projectName": "DueDinariAmico.Core",
+        "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj",
+        "packagesPath": "C:\\Users\\Brne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\DueDinariAmico.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\DueDinariAmico.Infrastructure.csproj",
+        "projectName": "DueDinariAmico.Infrastructure",
+        "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\DueDinariAmico.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\Brne\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Brne\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj": {
+                "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Application\\DueDinariAmico.Application.csproj"
+              },
+              "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj": {
+                "projectPath": "C:\\Users\\Brne\\Desktop\\DueDinariAmico\\DueDinariAmico.Core\\DueDinariAmico.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.15, )"
+            },
+            "Quartz": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            },
+            "Quartz.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            },
+            "Quartz.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[3.6.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

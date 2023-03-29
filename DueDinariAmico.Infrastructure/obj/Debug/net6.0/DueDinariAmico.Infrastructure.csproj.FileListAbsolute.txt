@@ -1,0 +1,17 @@
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Infrastructure.deps.json
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Infrastructure.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Infrastructure.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Application.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Core.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Application.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\bin\Debug\net6.0\DueDinariAmico.Core.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.AssemblyInfo.cs
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.csproj.CopyComplete
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\refint\DueDinariAmico.Infrastructure.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\DueDinariAmico.Infrastructure.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Infrastructure\obj\Debug\net6.0\ref\DueDinariAmico.Infrastructure.dll

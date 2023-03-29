@@ -1,0 +1,15 @@
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\bin\Debug\net6.0\DueDinariAmico.Application.deps.json
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\bin\Debug\net6.0\DueDinariAmico.Application.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\bin\Debug\net6.0\DueDinariAmico.Application.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\bin\Debug\net6.0\DueDinariAmico.Core.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\bin\Debug\net6.0\DueDinariAmico.Core.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.csproj.AssemblyReference.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.AssemblyInfoInputs.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.AssemblyInfo.cs
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.csproj.CoreCompileInputs.cache
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.csproj.CopyComplete
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\refint\DueDinariAmico.Application.dll
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\DueDinariAmico.Application.pdb
+C:\Users\Brne\Desktop\DueDinariAmico\DueDinariAmico.Application\obj\Debug\net6.0\ref\DueDinariAmico.Application.dll
