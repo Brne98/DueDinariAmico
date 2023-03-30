@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DueDinariAmico.Presentation/1.0.0": {
+        "runtime": {
+          "DueDinariAmico.Presentation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DueDinariAmico.Presentation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
