@@ -1,0 +1,66 @@
+@page
+@model IndexModel
+
+@{
+    ViewData["Title"] = "Due Dinari Amico Rate";
+}
+
+<h1>Exchange Rate</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].Currency)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].Date)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].Kup)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].Pro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].Sre)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ExchangeRate[0].IsDeleted)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.ExchangeRate) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Currency)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Date)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Kup)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Pro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Sre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsDeleted)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

@@ -2,8 +2,9 @@
 
 namespace DueDinariAmico.Core.Entities;
 
-public class ExchangeRateList : BaseEntity, ISoftDeletable
+public class ExchangeRateList : ISoftDeletable
 {
+    public int Id { get; set; }
     public string Currency { get; set; }
     public string Date { get; set; }
     public string? Kup { get; set; }

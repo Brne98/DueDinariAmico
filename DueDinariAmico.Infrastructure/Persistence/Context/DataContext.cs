@@ -15,7 +15,7 @@ public class DataContext : DbContext
     }
     
     public DbSet<ExchangeRateList> ExchangeRateLists { get; set; }
-    
+
     protected override void OnModelCreating(ModelBuilder builder)
     {
         builder.Entity<ExchangeRateList>(ConfigureExchangeRateList);
